@@ -6,3 +6,6 @@
     - Attach locomotive scroll css as a separate css file in your code
     - Attach locomotive scroll js cdn in your code
     - Make a script and paste the locomotive js code
+
+# GSAP
+    - Attach GSAP cdn script tag
